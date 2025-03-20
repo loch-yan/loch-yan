@@ -2,8 +2,6 @@
 <h3 align="center">A Software Developer who loves to Develop, Analyze and Innovate</h3>
 
 
- 
-- 👨‍💻 All of my projects are available at [loch-portfolio.vercel.app/projects](https://loch-portfolio.vercel.app/projects)
 
 - 📫 Reach me at [**loc.yan0825@gmail.com**](mailto:loc.yan0825@gmail.com)
 
